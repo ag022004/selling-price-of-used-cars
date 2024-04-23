@@ -1,0 +1,145 @@
+﻿Brand,Model,Year,Mileage,Condition,Fuel Type,Transmission,Selling Price
+ Toyota    , Corolla     , 2018 , 50000   , Excellent , Petrol    , Automatic    , 12000          
+ Honda     , Civic       , 2017 , 60000   , Good      , Petrol    , Manual       , 11000          
+ Ford      , Mustang     , 2015 , 30000   , Fair      , Petrol    , Automatic    , 25000          
+ BMW       , 3 Series    , 2016 , 40000   , Excellent , Diesel    , Automatic    , 28000          
+ Nissan    , Altima      , 2014 , 70000   , Good      , Petrol    , Automatic    , 9000           
+ Tesla     , Model S     , 2019 , 20000   , Excellent , Electric  , Automatic    , 55000          
+ Chevrolet , Camaro      , 2013 , 80000   , Fair      , Petrol    , Manual       , 15000          
+ Hyundai   , Elantra     , 2017 , 55000   , Good      , Diesel    , Manual       , 10000          
+ Mercedes  , C-Class     , 2015 , 45000   , Excellent , Petrol    , Automatic    , 32000          
+ Audi      , A4          , 2016 , 35000   , Good      , Diesel    , Automatic    , 27000          
+ Kia       , Optima      , 2018 , 48000   , Good      , Petrol    , Automatic    , 14000          
+ Volkswagen, Golf        , 2017 , 42000   , Excellent , Diesel    , Manual       , 18000          
+ Mazda     , Mazda3      , 2016 , 39000   , Fair      , Petrol    , Automatic    , 11000          
+ Subaru    , Outback     , 2015 , 65000   , Good      , Petrol    , Automatic    , 16000          
+ Lexus     , ES          , 2019 , 22000   , Excellent , Hybrid    , Automatic    , 45000          
+ Fiat      , 500         , 2017 , 30000   , Fair      , Petrol    , Manual       , 8000           
+ Peugeot   , 308         , 2016 , 37000   , Good      , Diesel    , Manual       , 10000          
+ Jaguar    , XE          , 2018 , 33000   , Excellent , Petrol    , Automatic    , 40000          
+ Volvo     , XC60        , 2015 , 55000   , Good      , Diesel    , Automatic    , 25000          
+ Mini      , Cooper      , 2017 , 42000   , Excellent , Petrol    , Manual       , 17000          
+ Fiat      , 500X        , 2018 , 25000   , Good      , Petrol    , Manual       , 12000          
+ Renault   , Megane      , 2017 , 36000   , Fair      , Diesel    , Automatic    , 11000          
+ Porsche   , 911         , 2016 , 22000   , Excellent , Petrol    , Automatic    , 85000          
+ Infiniti  , Q50         , 2018 , 28000   , Good      , Petrol    , Automatic    , 30000          
+ Land Rover, Range Rover , 2015 , 50000   , Good      , Diesel    , Automatic    , 60000          
+ Alfa Romeo, Giulia      , 2017 , 34000   , Excellent , Petrol    , Manual       , 32000          
+ Mitsubishi, Lancer      , 2016 , 41000   , Fair      , Petrol    , Automatic    , 9000           
+ Buick     , Regal       , 2018 , 29000   , Good      , Petrol    , Automatic    , 22000          
+ Cadillac  , ATS         , 2017 , 35000   , Excellent , Petrol    , Automatic    , 28000          
+ Acura     , TLX         , 2019 , 18000   , Excellent , Petrol    , Automatic    , 33000          
+ Suzuki    , Swift       , 2018 , 32000   , Good      , Petrol    , Manual       , 9000           
+ Chrysler  , 300         , 2016 , 46000   , Fair      , Petrol    , Automatic    , 17000          
+ Dodge     , Charger     , 2017 , 40000   , Good      , Petrol    , Automatic    , 25000          
+ Jeep      , Wrangler    , 2015 , 55000   , Good      , Petrol    , Manual       , 29000          
+ Lincoln   , MKZ         , 2018 , 27000   , Excellent , Hybrid    , Automatic    , 35000          
+ Ram       , 1500        , 2016 , 39000   , Fair      , Petrol    , Automatic    , 24000          
+ Subaru    , Impreza     , 2017 , 36000   , Good      , Petrol    , Manual       , 15000          
+ Toyota    , Camry       , 2019 , 21000   , Excellent , Petrol    , Automatic    , 28000          
+ Honda     , Accord      , 2018 , 28000   , Good      , Petrol    , Automatic    , 26000          
+ Ford      , Fusion      , 2017 , 34000   , Fair      , Petrol    , Automatic    , 18000          
+ BMW       , 5 Series    , 2016 , 37000   , Excellent , Diesel    , Automatic    , 33000          
+ Nissan    , Sentra      , 2018 , 24000   , Good      , Petrol    , Manual       , 14000          
+ Tesla     , Model 3     , 2020 , 12000   , Excellent , Electric  , Automatic    , 50000          
+ Chevrolet , Malibu      , 2017 , 32000   , Good      , Petrol    , Automatic    , 20000          
+ Hyundai   , Sonata      , 2018 , 26000   , Excellent , Petrol    , Automatic    , 22000          
+ Volkswagen, Passat      , 2017 , 31000   , Good      , Diesel    , Automatic    , 19000          
+ Mazda     , CX-5        , 2018 , 23000   , Good      , Petrol    , Automatic    , 21000          
+ Subaru    , Forester    , 2016 , 38000   , Fair      , Petrol    , Automatic    , 16000          
+ Lexus     , RX          , 2019 , 19000   , Excellent , Hybrid    , Automatic    , 48000          
+ Fiat      , Panda       , 2017 , 29000   , Fair      , Petrol    , Manual       , 7500           
+ Peugeot   , 3008        , 2018 , 22000   , Good      , Diesel    , Manual       , 20000          
+ Jaguar    , F-PACE      , 2017 , 26000   , Excellent , Diesel    , Automatic    , 45000          
+ Volvo     , S60         , 2016 , 34000   , Good      , Petrol    , Automatic    , 23000          
+ Mini      , Countryman  , 2018 , 18000   , Excellent , Petrol    , Automatic    , 26000          
+ Renault   , Clio        , 2017 , 27000   , Good      , Petrol    , Manual       , 9000           
+ Porsche   , Cayenne     , 2016 , 29000   , Excellent , Petrol    , Automatic    , 75000          
+ Infiniti  , QX50        , 2018 , 24000   , Good      , Petrol    , Automatic    , 32000          
+ Land Rover, Discovery   , 2015 , 41000   , Good      , Diesel    , Automatic    , 58000          
+ Alfa Romeo, Stelvio     , 2018 , 20000   , Excellent , Petrol    , Automatic    , 35000          
+ Mitsubishi, Outlander   , 2017 , 32000   , Fair      , Petrol    , Automatic    , 12000          
+ Buick     , Encore      , 2018 , 25000   , Good      , Petrol    , Automatic    , 19000          
+ Cadillac  , XT5         , 2017 , 29000   , Excellent , Petrol    , Automatic    , 35000          
+ Acura     , RDX         , 2019 , 16000   , Excellent , Petrol    , Automatic    , 38000          
+ Suzuki    , Vitara      , 2018 , 21000   , Good      , Petrol    , Manual       , 10000          
+ Chrysler  , Pacifica    , 2017 , 31000   , Fair      , Petrol    , Automatic    , 22000          
+ Dodge     , Journey     , 2016 , 36000   , Good      , Petrol    , Automatic    , 15000          
+ Jeep      , Grand Cherokee , 2018 , 19000 , Excellent , Petrol  , Automatic  , 40000        
+ Lincoln   , Navigator   , 2017 , 26000   , Good      , Petrol    , Automatic    , 50000          
+ Ram       , 2500        , 2016 , 37000   , Fair      , Diesel    , Automatic    , 28000          
+ Subaru    , Legacy      , 2017 , 33000   , Good      , Petrol    , Automatic    , 17000          
+ Toyota    , RAV4        , 2019 , 18000   , Excellent , Petrol    , Automatic    , 29000          
+ Honda     , CR-V        , 2018 , 25000   , Good      , Petrol    , Automatic    , 27000          
+ Ford      , Escape      , 2017 , 28000   , Fair      , Petrol    , Automatic    , 19000          
+ BMW       , X3          , 2016 , 34000   , Excellent , Diesel    , Automatic    , 35000          
+ Nissan    , Rogue       , 2018 , 21000   , Good      , Petrol    , Automatic    , 24000          
+ Tesla     , Model X     , 2020 , 10000   , Excellent , Electric  , Automatic    , 65000          
+ Chevrolet , Equinox     , 2017 , 29000   , Good      , Petrol    , Automatic    , 21000          
+ Hyundai   , Santa Fe    , 2018 , 24000   , Excellent , Petrol    , Automatic    , 26000          
+ Volkswagen, Tiguan      , 2017 , 30000   , Good      , Diesel    , Automatic    , 22000          
+ Mazda     , CX-3        , 2018 , 22000   , Good      , Petrol    , Automatic    , 19000          
+ Subaru    , XV Crosstrek, 2016 , 36000   , Fair      , Petrol    , Automatic    , 14000          
+ Lexus     , LX          , 2019 , 15000   , Excellent , Petrol    , Automatic    , 70000          
+ Fiat      , 124 Spider  , 2017 , 28000   , Fair      , Petrol    , Manual       , 13000          
+ Peugeot   , 508         , 2018 , 21000   , Good      , Diesel    , Manual       , 22000          
+ Jaguar    , XJ          , 2017 , 26000   , Excellent , Petrol    , Automatic    , 55000          
+ Volvo     , V60         , 2016 , 33000   , Good      , Petrol    , Automatic    , 20000          
+ Mini      , Clubman     , 2018 , 19000   , Excellent , Petrol    , Automatic    , 23000          
+ Renault   , Kadjar      , 2017 , 26000   , Good      , Petrol    , Manual       , 11000          
+ Porsche   , Panamera    , 2016 , 27000   , Excellent , Petrol    , Automatic    , 80000          
+ Infiniti  , Q60         , 2018 , 22000   , Good      , Petrol    , Automatic    , 32000          
+ Land Rover, Evoque      , 2015 , 39000   , Good      , Diesel    , Automatic    , 48000          
+ Alfa Romeo, 4C          , 2017 , 19000   , Excellent , Petrol    , Automatic    , 40000          
+ Mitsubishi, Eclipse Cross , 2018 , 24000 , Fair    , Petrol    , Automatic    , 14000          
+ Buick     , Enclave     , 2018 , 21000   , Good      , Petrol    , Automatic    , 32000          
+ Cadillac  , CT6         , 2017 , 27000   , Excellent , Petrol    , Automatic    , 45000          
+ Acura     , MDX         , 2019 , 14000   , Excellent , Petrol    , Automatic    , 40000          
+ Suzuki    , Jimny       , 2018 , 17000   , Good      , Petrol    , Manual       , 11000          
+ Chrysler  , 200         , 2017 , 29000   , Fair      , Petrol    , Automatic    , 14000          
+ Dodge     , Durango     , 2016 , 34000   , Good      , Petrol    , Automatic    , 26000          
+ Jeep      , Renegade    , 2018 , 16000   , Excellent , Petrol    , Automatic    , 23000          
+ Lincoln   , MKC         , 2017 , 25000   , Good      , Petrol    , Automatic    , 28000          
+ Ram       , 3500        , 2016 , 36000   , Fair      , Diesel    , Automatic    , 32000          
+ Subaru    , BRZ         , 2017 , 22000   , Good      , Petrol    , Manual       , 18000          
+ Toyota    , Highlander  , 2019 , 16000   , Excellent , Petrol    , Automatic    , 32000          
+ Honda     , Pilot       , 2018 , 23000   , Good      , Petrol    , Automatic    , 34000          
+ Ford      , Edge        , 2017 , 26000   , Fair      , Petrol    , Automatic    , 24000          
+ BMW       , X5          , 2016 , 30000   , Excellent , Diesel    , Automatic    , 42000          
+ Nissan    , Murano      , 2018 , 20000   , Good      , Petrol    , Automatic    , 26000          
+ Tesla     , Roadster    , 2020 , 8000    , Excellent , Electric  , Automatic    , 150000         
+ Chevrolet , Traverse    , 2017 , 24000   , Good      , Petrol    , Automatic    , 28000          
+ Hyundai   , Tucson      , 2018 , 22000   , Excellent , Petrol    , Automatic    , 25000          
+ Volkswagen, Arteon      , 2019 , 15000   , Excellent , Diesel    , Automatic    , 38000          
+ Mazda     , MX-5 Miata  , 2017 , 18000   , Good      , Petrol    , Manual       , 20000          
+ Subaru    , Ascent      , 2018 , 19000   , Good      , Petrol    , Automatic    , 30000          
+ Lexus     , NX          , 2019 , 13000   , Excellent , Petrol    , Automatic    , 37000          
+ Fiat      , Doblo       , 2017 , 26000   , Fair      , Petrol    , Manual       , 9000           
+ Peugeot   , 2008        , 2018 , 20000   , Good      , Diesel    , Manual       , 18000          
+ Jaguar    , F-Type      , 2016 , 23000   , Excellent , Petrol    , Automatic    , 55000          
+ Volvo     , XC90        , 2017 , 22000   , Good      , Diesel    , Automatic    , 44000          
+ Mini      , Paceman     , 2018 , 16000   , Excellent , Petrol    , Manual       , 22000          
+ Renault   , Captur      , 2017 , 25000   , Good      , Petrol    , Manual       , 10000          
+ Porsche   , 718 Boxster , 2018 , 18000   , Excellent , Petrol    , Automatic    , 60000          
+ Infiniti  , QX60        , 2018 , 21000   , Good      , Petrol    , Automatic    , 36000          
+ Land Rover, Defender    , 2015 , 35000   , Good      , Diesel    , Manual       , 42000          
+ Alfa Romeo, 4C Spider   , 2017 , 17000   , Excellent , Petrol    , Manual       , 45000          
+ Mitsubishi, Mirage      , 2018 , 19000   , Fair      , Petrol    , Manual       , 8000           
+ Buick     , LaCrosse    , 2018 , 21000   , Good      , Petrol    , Automatic    , 24000          
+ Cadillac  , XT4         , 2019 , 14000   , Excellent , Petrol    , Automatic    , 39000          
+ Acura     , ILX         , 2018 , 23000   , Good      , Petrol    , Automatic    , 29000          
+ Suzuki    , S-Cross     , 2017 , 27000   , Good      , Petrol    , Manual       , 11000          
+ Chrysler  , Voyager     , 2018 , 18000   , Fair      , Petrol    , Automatic    , 21000          
+ Dodge     , Challenger  , 2016 , 28000   , Fair      , Petrol    , Automatic    , 33000          
+ Jeep      , Cherokee    , 2018 , 17000   , Excellent , Petrol    , Automatic    , 28000          
+ Lincoln   , Continental , 2017 , 24000   , Good      , Petrol    , Automatic    , 42000          
+ Ram       , ProMaster   , 2016 , 32000   , Fair      , Diesel    , Automatic    , 26000          
+ Subaru    , Tribeca     , 2017 , 23000   , Good      , Petrol    , Automatic    , 21000          
+ Toyota    , Sequoia     , 2019 , 12000   , Excellent , Petrol    , Automatic    , 58000          
+ Honda     , HR-V        , 2018 , 19000   , Good      , Petrol    , Automatic    , 24000          
+ Ford      , Explorer    , 2017 , 21000   , Fair      , Petrol    , Automatic    , 27000          
+ BMW       , X1          , 2016 , 29000   , Excellent , Diesel    , Automatic    , 32000          
+ Nissan    , Kicks       , 2018 , 16000   , Good      , Petrol    , Automatic    , 19000          
+ Tesla     , Model Y     , 2020 , 10000   , Excellent , Electric  , Automatic    , 55000          
+ Chevrolet , Colorado    , 2017 , 25000   , Good      , Petrol    , Automatic    , 28000          
+ Hyundai   , Kona        , 2018 , 20000   , Excellent , Petrol    , Automatic    , 220
